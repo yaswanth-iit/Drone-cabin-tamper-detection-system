@@ -12,7 +12,7 @@ Features:
 
 <p float="left">
   <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_cros_3d.JPG" width="400" />
-  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_cros_ori.jpg" width="400" /> 
+  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_cros_orig.jpg" width="400" /> 
 </p>
 
 <p float="left">
