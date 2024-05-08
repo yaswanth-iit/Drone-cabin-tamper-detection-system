@@ -12,15 +12,15 @@ Features:
 
 <p float="left">
   <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_cros_3d.JPG" width="400" />
-  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_cros_ori.JPG" width="400" /> 
+  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_cros_ori.jpg" width="400" /> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_top_3d.JPG" width="400" />
-  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_top_ori.JPG" width="400" /> 
+  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_top_3d.PNG" width="400" />
+  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_top_ori.jpg" width="400" /> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_bot_3d.JPG" width="400" />
-  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_bot_ori.JPG" width="400" /> 
+  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_bot_3d.PNG" width="400" />
+  <img src="https://github.com/yaswanth-iit/Drone-cabin-tamper-detection-system/blob/main/images/tp_bot_ori.jpg" width="400" /> 
 </p>
